@@ -1,0 +1,13 @@
+<box border radius="lg" padding={3} gap={2}>
+  <row align="center" justify="between">
+    <text weight="medium">requirements.txt</text>
+    <button variant="outline" size="sm" onClick={() => GenUI.copy("pandas\nnumpy\nmatplotlib\nseaborn\njupyter")}> <icon name="copy" size="xs" inline/> Copy</button>
+  </row>
+  ```text
+  pandas
+  numpy
+  matplotlib
+  seaborn
+  jupyter
+  ```
+</box>
