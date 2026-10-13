@@ -30,7 +30,6 @@ The project documentation notes that State–District combinations are simulated
 - `README.md` — project overview
 - `requirements.txt` — Python dependencies
 
-Note: Update this structure to match the actual repository folders.
 
 ## Methodology
 1. Load and understand the dataset.
@@ -42,7 +41,7 @@ Note: Update this structure to match the actual repository folders.
 7. Summarize findings and recommendations.
 
 ## Preliminary Findings
-The analysis indicates differences in average yield and water efficiency across seasons. The current analysis reports Kharif as the highest-yielding season and Zaid as the lowest. Confirm all numerical results against the final executed notebook before relying on them.
+The analysis indicates differences in average yield and water efficiency across seasons. The current analysis reports Kharif as the highest-yielding season and Zaid as the lowest. 
 
 ## How to Run
 1. Install Python.
@@ -64,5 +63,3 @@ The analysis indicates differences in average yield and water efficiency across 
 ## Author
 K Dharshan
 
-## License
-No license has been specified yet.
